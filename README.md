@@ -7,7 +7,7 @@
 Install the dependencies (Mac OS)
 ```
 brew install tesseract 
-brew install graphicsmagick 
+brew install imagemagick 
 pip install spacy 
 pip install datefinder
 ```
