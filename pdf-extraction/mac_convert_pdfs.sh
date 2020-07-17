@@ -10,7 +10,7 @@ do
 	filename=$(basename "$file" .pdf)
 
 	# Convert to an image
-	gm convert -density 300 $file -depth 8 -strip -background white -alpha off $filename.tiff
+	magick convert -density 300 $file -depth 8 -strip -background white -alpha off $filename.tiff
 	# Use tesseract to conver to a .txt document
 	tesseract $filename.tiff $filename
 done
