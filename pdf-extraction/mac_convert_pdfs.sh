@@ -10,9 +10,9 @@ do
 	filename=$(basename "$file" .pdf)
 
 	# Convert to an image
-	gconvert -density 300 $file -depth 8 -strip -background white -alpha off $filename.tiff
+	gm convert -density 300 $file -depth 8 -strip -background white -alpha off $filename.tiff
 	# Use tesseract to conver to a .txt document
-	gtesseract $filename.tiff $filename
+	tesseract $filename.tiff $filename
 done
 
 
