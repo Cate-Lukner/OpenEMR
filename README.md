@@ -4,7 +4,7 @@
 - `convert_pdfs.sh` to convert the pdfs into text files
 - `find_patient_details.py` to find the patient details in the pdfs. 
 
-Install the dependencies:
+Install the dependencies (Mac OS)
 ```
 brew install tesseract 
 brew install graphicsmagick 
