@@ -22,5 +22,5 @@ do
 	filename=$(basename "$file" .pdf)
 	rm $filename.tiff
 done
-'
+
 

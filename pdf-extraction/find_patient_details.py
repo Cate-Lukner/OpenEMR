@@ -5,11 +5,25 @@ import os
 
 import spacy
 import re
-from datefinder import find_dates
+
 
 nlp = spacy.load('en_core_web_sm')
 
-REMOVE_NAME = re.compile(r"(patient)?name[:]?", re.IGNORECASE)
+STRIP_TO_NAME = re.compile(r"(patient)?name[:]?", re.IGNORECASE)
+
+def get_current_patients(patient_names_file):
+    """
+    Extracts the names into a list from the file of patient names.
+    Could potentially change this to read CSV files. 
+    """
+
+    # Could make this a CSV file with LAST,FIRST,BIRTHDATE
+
+    with open(patient_names_file) as f:
+        patient_names = f.readlines()
+    patient_names = [x.strip().lower() for x in patient_names]
+
+    return patient_names 
 
 def yes_or_no(question):
     reply = str(input(question+' (y/n): ')).lower().strip()
@@ -20,11 +34,11 @@ def yes_or_no(question):
     else:
         return yes_or_no("Please Enter (y/n) ")
 
-def get_names(doc):
+def get_names(doc, current_patients):
     names = []
     for ent in doc.ents:
         if ent.label_ == 'PERSON':
-            names.append(ent.text)
+            names.append(str(ent.text).strip().lower())
 
     if names != []:
         names = list(set(names))
@@ -35,7 +49,7 @@ def find_correct_name(names_list):
     for name in names_list:
         if (yes_or_no(f'Is "{name}" the patient?')):
             patient = re.sub(
-                REMOVE_NAME, '', 
+                STRIP_TO_NAME, '', 
                 str(name).lower().strip()
             )
             patient = re.sub(
@@ -78,19 +92,23 @@ def find_birthdate(text_file):
         return birthdate
 
 def main():
+
+    patient_names_file = str(sys.argv[1])
+    print("Collecting current patient names..")
+    current_patients = get_current_patients(patient_names_file)
     
-    pdf_name = str(sys.argv[2])
+    pdf_name = str(sys.argv[3])
     print("Opening the pdf..")
     open_pdf = subprocess.Popen("xdg-open '%s'" % pdf_name, shell=True, preexec_fn=os.setpgrp)
 
-    file_name = str(sys.argv[1])
+    file_name = str(sys.argv[2])
     file_text = open(file_name).read()
 
     print("Analyzing the ents..")
     file_doc = nlp(file_text)
 
     print("Getting the names..")
-    names_list = get_names(file_doc)
+    names_list = get_names(file_doc, current_patients)
 
     print("Analyzing the names..\n")
     name = find_correct_name(names_list)
