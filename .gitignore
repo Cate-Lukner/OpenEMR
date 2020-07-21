@@ -1,2 +1,5 @@
 #Ignore the sensitive PDFs
 /pdf-extraction/PDFs/
+
+#Ignore .txt files with patient data
+/pdf-extraction/txt-files/

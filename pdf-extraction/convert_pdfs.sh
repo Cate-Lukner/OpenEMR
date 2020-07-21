@@ -7,12 +7,14 @@ FILES=$(find . -type f -name "*.pdf")
 for file in $FILES
 do
 	# Get the basename of the file
-	filename=$(basename "$file" .pdf)
+	filename="$(basename "$file" .pdf)"
 
 	# Convert to an image
 	convert -density 300 $file -depth 8 -strip -background white -alpha off $filename.tiff
 	# Use tesseract to conver to a .txt document
 	tesseract $filename.tiff $filename
+
+	mv $filename.txt txt-files/$filename.txt
 done
 
 
