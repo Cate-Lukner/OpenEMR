@@ -1,0 +1,8 @@
+#Ignore the sensitive PDFs
+/rename_pdfs/PDFs/
+
+#Ignore .txt files with patient data
+/rename_pdfs/txt-files/
+
+#Ignore patient data csv
+/rename_pdfs/current_patient_names.csv
