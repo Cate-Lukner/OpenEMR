@@ -1,0 +1,95 @@
+7/20/2020 Lukner Clinic
+
+oO (https://www.open-emr.org)
+
+ 
+
+ 
+
+~~
+Calendar FlowBoard RecallBoard Messages Patient/Client Fees Modules
+Procedures Administration Reports Miscellaneous Popups About
+Ralf Lukner MD PhD
+Patient: Karla ©) (@) Open Encounter: None = (1664) ]
+Berry (177) ® | 20> | C)~
+DOB: 04/10/1962
+Age: 58
+
+Search by an (a)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* Calendar 2 @& * Patient Finder 0 mf * | Vitals 2 ® *% | Past Encounters and Documents © af’ ¥
+
+Vitals © (../summary/demographics.php)
+
+ 
+
+ 
+
+Weight (Ibs)
+350
+345
+340 /
+335
+330
+Jan 2019 Jul 2019 Jan 2020
+
+Zoom: click-drag, Pan: shift-click-drag, Restore: double-click
+
+2020- 2020- 2020- 2019- 2019- 2019-
+
+02-26 01-27 01-16 11-26 11-13 10-29
+Name Unit 14:59 13:56 10:58 16:17 11:09 15:54
+Weight Ibs 339.50 337.00 337.00 328.00 332.00 330.00
+Weight kg 153.99 152.86 152.86 148.78 150.59 149.69
+Height/Length in 67.00 67.00 67.00 67.00 67.00 67.00
+Height/Length cm 170.18 170.18 170.18 170.18 170.18 170.18
+BP Systolic mmHg 138 133 177 185 130 121
+
+https://newphoe.com/interface/main/tabs/main.php?token_main=PXSCMJowOsXGZSOAWP4zMErvPjtDd0p0IdZqPked
+
+2019-
+10-01
+14:47
+
+332.20
+150.68
+67.00
+170.18
+117
+
+2019-
+09-03
+14:27
+
+344.00
+156.04
+67.00
+170.18
+118
+
+2019-
+08-29
+15:25
+
+345.00
+156.49
+67.00
+170.18
+120
+
+1/1
+
