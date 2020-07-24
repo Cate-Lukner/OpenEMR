@@ -10,10 +10,6 @@ import pandas as pd
 import random
 
 
-nlp = spacy.load('en_core_web_sm')
-
-STRIP_TO_NAME = re.compile(r"(patient)?name[:]?", re.IGNORECASE)
-
 def get_current_patients_df(patient_names_file):
     """
     Extracts the names into a list from the file of patient names.
