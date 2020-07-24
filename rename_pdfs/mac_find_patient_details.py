@@ -132,6 +132,7 @@ def main():
     rand_hash = random.getrandbits(30)
 
     os.rename(pdf_name, f'PDFs/{last},{first}-{topic}-{date}-{rand_hash}.pdf')
+    os.rename(txt_file, f'txt-files/{last},{first}-{topic}-{date}-{rand_hash}.txt')
 
     return patient_dict 
     
