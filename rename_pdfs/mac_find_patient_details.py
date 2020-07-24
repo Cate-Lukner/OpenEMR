@@ -124,7 +124,7 @@ def main():
     topic = re.sub(' ', '-', document_topic())
 
     print("Closing the PDF..")
-    os.killpg(os.getpgid(open_pdf.pid), signal.SIGTERM)
+    # os.killpg(os.getpgid(open_pdf.pid), signal.SIGTERM)
 
 
     first = patient_dict["first"]
