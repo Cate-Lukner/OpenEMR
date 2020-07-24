@@ -25,7 +25,7 @@ for file in $FILES
 do
 	filename="$(basename "$file" .pdf)"
 
-	python find_patient_details.py $filename
+	python mac_find_patient_details.py current_patient_names.csv $filename
 done
 
 
