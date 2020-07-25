@@ -1,0 +1,63 @@
+PAMPA REGIONAL MEDICAL CENTER
+One Medical Plaza
+Pampa, TX 79065 (806)663-5770
+
+Interpreted through HPRA in Amarillo, Texas 24 hour Radiologist contact number — (888) 679-9873
+
+Patient Name PEGGY MUNCRIEF
+ARH Age DOB - Status Sex Scan Time Date Account
+M000055434 84 07/29/1935 Out F 09:40 AM 06/19/2020 'V00000739086
+
+Requesting Physician CDSM
+RALF B. LUKNER
+
+PROCEDURE: BONE DENSITY PERIPHERAL
+INDICATIONS: AGE RELATED OSTEOPOROSIS
+COMPARISON: None.
+
+FINDINGS:
+Femur
+
+Proximal RIGHT femur bone mineral density (BMD) (g/em2): 0.531 T-score : -3.8
+
+Proximal LEFT femur bone mineral density (BMD) (g/em2): 0.544 T-score: -3.7
+
+LEFT FOREARM
+
+12:
+Radius bone mineral density (g/cm squared): 0.358 T-score: -6.00
+
+UD:
+Radius mineral density (g/em squared): 0.339 T-score: -2.9
+
+Total:
+Radiate mineral density (g/em squared): 0.362 T-score: -5.3
+
+CONCLUSION:
+1, Osteoporosis proximal femora and right distal radius.
+
+2. Based on the Sheffield FRAX study, the patient's 10-year probability of a major osteoporotic fracture
+(clinical spine, forearm, hip or shoulder) is 41.7 %, and the 10-year probability of a hip fracture is 18.8 %.
+
+SUGGESTED RECOMMENDATIONS:
+Normal & Osteopenia: Consideration should be given to use of calcium supplementation, daily multiple vitamins and
+adequate exercise, as preventive measures against osteoporosis, if clinically indicated.
+
+ 
+
+Continued Report - Page 2 of 2
+
+Patient Name PEGGY MUNCRIEF
+
+MR# Age DOB Status Sex Scan Time Date Account
+M000055434 84 07/29/1935 Out F 09:40 AM 06/19/2020 'V00000739086
+Requesting Physician CDSM
+
+RALF B. LUKNER
+
+Osteoporosis & Severe Osteoporosis: —_ In addition to the above, consideration should be given to medical therapy
+against osteoporosis, if clinically indicated.
+
+Dictated by: Crandon Clark, MD on 06/20/2020 at 06:43 PM
+Electronically Signed By: Crandon Clark, MD on 06/20/2020 at 06:46 PM.
+

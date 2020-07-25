@@ -1,8 +1,8 @@
 #!/bin/bash
 
-if [ ! -d ../txt-files]; then
-	mkdir ../txt-files
-fi
+# if [ ! -d ../txt-files]; then
+# 	mkdir ../txt-files
+# fi
 
 # Get all the PDF files
 FILES=$(find . -type f -name "*.pdf")

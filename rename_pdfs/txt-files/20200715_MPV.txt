@@ -1,0 +1,3079 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Laurrell. Josenh (MRN 665137) Printed hv Steven D Hvatt [64301 at 7/1591 9-59 AM
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8062124053 09:24:22 07-15-2020 71 4103
+Laurrell, Joseph (MRN 665137)
+A |
+@® Basic Metabolic Panel Order: 753744259
+| Collected: 6/10/2020 04:54 .
+View Full Report
+, Ref Range & Units Imo ago
+Sodium 135 - 145 mmol/L 132 v
+‘ Potassium 3.6 - 5.0 mmol/L 4.0
+Chloride 98 - 107 mmol/L 97 Vv
+c02 21 - 31 mmol/L 28
+a eee ea BL Neer SME 34-4
+Creatinine 0.60 - 1.30 mg/dL 1.01
+Glucose 70 - 105 mg/dL 1424
+Calcium 8.6 - 10.3 mg/dL 9.0
+_ | Estimated GFR >=60 mL/min/1.73m2 77
+BUN/Creatinine Ratio 5-35 34
+Anion Gap (K+) 6.00 - 16.00 mmol/L 11.00
+, @® CBC with Auto Differential Order: 753744258
+Collected: 6/10/2020 04:54
+View Full Report
+Ref Range & Units Imo ago
+WBC 4.8 - 10.8 K/uL 10.3
+RBC 4.70 - 6.10 M/uL 4.09v
+Hemoglobin 14.0 - 18.0 g/dL 12.4v
+Hematocrit 42.0 - 52.0% 36.6v
+MCV 83.0 - 97.0 fL 89.3
+MCH 27.0 - 31.1 pg 30.4
+MCHC 33.0 - 36.0 g/dL 34.0
+RDW 11.5 - 14.0% 14.54
+Platelets 130 - 400 K/uL 309
+MPV 7.2 - 11.1 fL 7.6
+Neutrophils 40.0 - 74.0 % 14.4A
+Lymphocytes 19.0 - 48.0 % 17.6v
+Monocytes 3.0-9.0% 7.2
+Eosinophils <=70% 0.2
+Basophils 0.0-20% 0.6
+Neutrophils, Absolute 1.9 - 8.0 K/uL 7.6
+Lymphocytes, Absolute 0.9 - 5.2 K/uL 1.8
+Monocytes, Absolute — 0.1 - 1.0 K/uL 0.7
+Eosinophils, Absolute 0.0 - 0.8 K/uL 0.0
+
+ 
+
+Pace 17 nf 10
+8062124053
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+306138462.
+
+09:25:03 07-15-2020 72 1103
+Laurrell, Joseph (MRN 665137)
+| Basophils, Absolute <=0.2 K/uL 0.1
+© Protime-INR Order: 753744257
+Collected: 6/10/2020 04:54
+View Full Report
+Ref Range & Units imo ago
+Prothrombin Time (PT) 11.5 - 15.0 sec 13.9
+—I—
+INR 1.1
+® POCT Glucose by Meter Order. 753744266
+Collected: 6/10/2020 02:46
+View Full Report
+Ref Range & Units Imo ago
+Glucose, POC 70 - 120 1594
+POC Operator ID 606132717
+@ POCT Glucose by Meter "Order. 753744264
+Collected: 6/10/2020 02:12
+View Full Report
+Ref Range & Units Imo ago
+Glucose, POC 70 - 120 59v
+POC Operator ID 806115596
+@® POCT Glucose by Meter Order. 753744262
+Collected: 6/9/2020 19:39
+View Full Report
+Ref Range & Units Imo ago
+Glucose, POC 70 - 120 188A
+’ POC Operator ID 806115596
+® POCT Glucose by Meter Order: 753564888
+Collected: 6/9/2020 16:14
+View Full Report
+Ref Range & Units Imo ago.
+Glucose, POC 70 - 120 “299A
+
+ 
+
+Laurrell, Joseph (MRN 665137) Printed by Steven D Hvatt [64301 at 7/15/20 9:59 AM ~—— Pase' 18 of 19
+Kecelved
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8062124053 09:25:32 07-15-2020 73 1103
+Laurrell, Joseph (MRN 665137)
+
+i
+@® POCT Glucose by Meter Order: 753564865
+Collected: 6/9/2020 12:30
+View Full Report
+
+Ref Range & Units Imo ago
+Glucose, POC 70 - 120 1554
+POC Operator ID 806138462
+“4-9 POCT Glucose by Meter Order: 753564859
+Collected: 6/9/2020 07:44
+View Full Report
+Ref Range & Units Imo ago
+Glucose, POC 70 - 120 83
+POC Operator ID 806138462
+@ POCT Glucose by Meter Order. 753564839
+Collected: 6/9/2020 04:30 ,
+View Full Report
+Ref Range & Units Imo ago
+Glucose, POC 70 - 120 1214
+POC Operator ID 806083073
+
+ 
+
+ 
+
+Laurrell, Joseph (MRN 665137) Printed by Steven D Hvatt [64301 at 7/15/20 9:59 AM
+
+Page 19 of 19
+ 
+
+BSE N Ae.
+
+8062124053
+
+09:25:52 07-15-2020
+
+Laurrell, Joseph (MRN 665137)
+
+ 
+
+Tissue Exam Order: 753824707
+Status: Final result
+
+Visible to patient: No (Not Released)
+
+Dx: Bone lesion
+
+ 
+
+Narrative Performed by: PPAP
+PATIENT: LAURRELL, JOSEPH
+CASE NUMBER: BSA-20-03388
+
+74/103
+
+ 
+
+Specimen Source: A. Iliac bone biopsy
+
+ 
+
+Laurrell, Joseph (MRN 665137) Printed by Steven D Hyatt [64301 at 7/15/20 9:59 AM
+
+ 
+
+CLINICAL HISTORY? .
+
+PreOp Diagnosis: Bone lesion
+PostOp Diagnosis Same
+
+FINAL DIAGNOSIS:
+
+-Bone lesion, biopsy:
+
+Positive for malignancy with morphologic and immunoperoxidase features
+
+% consistent with origin from a hepatocellular carcinoma, high-grade.
+
+Focally the tumor appears to infiltrate skeletal muscle.
+Code 9 Class III ICD C79.89
+
+MICROSCOPIC DESCRIPTION:
+
+Sections are of portions of skin, skeletal muscle and multiple portions
+of tumor. The tumor consists of large polygonal celis with eosinophilic
+cytoplasm, a high nuclear to cytoplasmic ratio, macronucleoli and
+frequent abnormal mitotic figures. Some of the malignant cells have
+foamy cytoplasm. Immunoperoxidase studies are performed with
+appropriate controls on block Al and show positive staining of the
+malignant cells with pan keratin, at bedtime a and CD10. Weak staining
+is- present on RCC and CD68. Cytoplasmic staining is present on TTF-1
+with negative nuclear staining.
+
+Negative staining of the malignant cells is present on desmin, SMA,
+vimentin, PSA, CK 20, MART1, SOX 10, CK7, CDX-2, p63, GATA3 and NKX3.1.
+
+COMMENTS :
+
+The specimen is submitted for internal review.
+
+Clinically the patient has a history of liver masses in the right and
+left hepatic lobes with elevated AFP.
+
+Pathologic Tumor Stage: TX, NX, M n/a
+
+GROSS DESCRIPTION: .
+Received in formalin and a 20 mL syringe Labeled "Bone lesion" and
+consists of 1.6 x 1.1 x 0.2 cm aggregate of tan-yellow soft tissue
+
+fragments admixed with red clotted blood. The specimen is combined and
+
+ 
+
+Page | nf 3
+Bierec haat
+
+ 
+
+8062124053 09:26:23 07-15-2020 75 1103
+Laurrell, Joseph (MRN 665137)
+
+submitted entirely in a filter bag in Al. GJ 6/10/2020 10:49:22 AM
+
+Signature
+
+Final Diagnosis performed by Robert M Todd, M.D.. Electronically signed
+June 11, 2020 2:43 PM
+
+Specimen Collected: 06/10/20 09:16
+
+Last Resulted: 06/11/20 14:43
+
+§] Order Details 4p View Encounter _W Lab and Collection Details “4 Routing @ Result History
+
+ 
+
+ 
+
+ 
+
+Order Providers
+‘Authorizing Provider ~ ‘ . Encolintef Providér
+Chandana Yalamanchili, MD None
+
+ 
+
+ 
+
+Supervision Information
+Supervising Provider Type of Supervision
+Michael Hall Indirect Supervision
+
+ 
+
+Lab Component SmartPhrase Guide
+Tissue Exam (Order #753824707) on 6/10/20
+
+ 
+
+ 
+
+ 
+
+Specimens
+Collected Collected Time in
+ID Source Type Tests | By At Frozen? _ Attributes Formalin Priority
+A Tissue Tissue’ + TISSUEEXAM Michael 6/10/20 No
+
+Hall 9:16 AM
+Description: iliac bone biopsy :
+
+Requisition Comments
+Chandana Yalamanchili, ordering dr
+collected by DJ Phillips pa-c/ dr Hall
+done in ct/ tech MW
+two samples sent, one in syringe and other in formalin
+
+ 
+
+ 
+
+ 
+
+Routing History Expand All Collapse All
+Priority Sent On From To Message Type
+6/11/2020 2:50 Interface, Powerpath Results Derald Phillips, PA-C Results
+PM In
+
+Detailed Action Log ¥
+
+ 
+
+6/11/2020 2:50 Interface, Powerpath Results Chandana Yalamanchili, MD Results
+PM In
+
+Detailed Action Log ¥
+
+Other Results from 6/7/2020
+POCT Glucose by Meter Final result 6/12/2020
+
+ 
+
+T.aurrell Insenh (MRN 665137) Printed hy Steven DN Hvatt [644301 at 7/159N Q-5Q AM Pana 2 nf 2
+ 
+
+Keceived
+
+ 
+
+ 
+
+8062124053 09:26:54 07-15-2020 76/103
+Laurrell, Joseph (MRN 665137)
+POCT Glucose by Meter Final result 6/12/2020
+POCT Glucose by Meter Final result 6/11/2020
+POCT Glucose by Meter Final result 6/11/2020
+POCT Glucose by Meter Final result 6/11/2020
+POCT Glucose by Meter Final result 6/11/2020
+POCT Glucose by Meter Final result 6/11/2020
+POCT Glucose by Meter Final result 6/11/2020
+POCT Glucose by Meter Final result 6/11/2020
+POCT Glucose by Meter Final result. 6/10/2020
+—_—_—_————~—__P6EF Glucose by-Meter-finatrestiit 671072020
+POCT Glucose by Meter Final resutt 6/10/2020
+Protime-INR Final result . 6/10/2020
+CBC with Auto Differential Final result 6/10/2020.
+Basic Metabolic Panel Final result , 6/10/2020
+Magnesium Final result 6/10/2020
+POCT Glucose by Meter Final result 6/10/2020
+POCT Glucose by Meter Final result 6/10/2020
+POCT Glucose by Meter Final result - 6/9/2020
+POCT Glucose by Meter Final result 6/9/2020
+
+ 
+
+@ Warning: Additional results from 6/7/2020 are available but are not displayed in
+| this report.
+
+ 
+
+ 
+
+Laurrell, Joseph (MRN 665137) Printed by Steven D Hvatt [64301 at 7/15/20 9:59 AM Pase 3 nf 3
+Kecelved
+
+ 
+
+8062124053 09:27:11 07-15-2020 77 1103
+Laurrell, Joseph (MRN 665137)
+
+ 
+
+Tissue Exam Order. 754804719
+Status: Final result
+
+Visible to patient: No (Not Released)
+
+Dx: Upper GI bleeding
+
+ 
+
+Narrative Performed by: PPAP
+PATIENT: LAURRELL, JOSEPH
+CASE NUMBER: BSA-20-03502
+
+ 
+
+Specimen Source: A. Esophagus, biopsy
+
+ 
+
+CLINICAL HISTORY:
+
+PreOp Diagnosis: Upper GI bleeding K92.2°
+PostOp Diagnosis Same
+
+FINAL DIAGNOSIS: .
+
+Esophagus, biopsy:
+
+Glandular mucosa with intestinal metaplasia consistent with
+Barrett's esophagitis in the appropriate clinical ‘context.
+Background fibropurulent exudate is identified, consistent with
+ulceration.
+
+No evidence of malignancy or dysplasia.
+
+Code 6 Class III ICD K22.70
+
+MICROSCOPIC DESCRIPTION:
+A complete microscopic examination is performed.
+
+GROSS DESCRIPTION:
+
+Received in formalin labeled "Esophagus biopsy" and consists of a
+tan-red irregular mucosal soft tissue fragment which is filtered and
+submitted entirely in Al. GJ 6/15/2020 3:28:34 PM
+
+Signature
+
+Final Diagnosis performed by Eva M. Bashover, M.D.. Electronically
+signed June 16, 2020 8:08 AM
+
+Specimen Collected: 06/15/20 14:56
+
+Last Resulted: 06/16/20 08:08
+
+ 
+
+ 
+
+Bl Order Details “v View Encounter W Lab and Collection Details © Routing © Result History
+
+ 
+
+Order Providers
+
+Authorizing Provider Encounter Provider
+Richard Ellington, MD None
+
+Supervision Information
+
+Tanrrell Tacenh (MRN 645137) Printed hy Steven TD Hyatt [4d31 at 7/1590 10-00 AM Pane 3 nf?
+ 
+
+8062124053 09:27:39 07-15-2020 78 /103
+Laurrell, Joseph (MRN 665137)
+
+Supervising Provider . ‘Type of Supervision
+
+ 
+
+Richard Ellington, MD Indirect Supervision
+
+Lab Component SmartPhrase Guide
+
+ 
+
+- Tissue Exam (Order #7548047 19) on 6/15/20
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Specimens
+Collected Collected Time in
+ID Source Type _ Tests — By At Frozen? Attributes — Formalin Priority
+——__________A_ Fsophagus Tissue» TISSUE EXAM Richard _6/15/20.__No.
+Ellington, 1456
+MD
+Description-esophagus-bx
+Other Results from 6/14/2020
+
+POCT Glucose by Meter Final result, 6/16/2020
+POCT Glucose by Meter Final result 6/16/2020
+POCT Glucose by Meter Final result 6/16/2020
+Hemoglobin and Hematocrit, Blood Final result 6/16/2020
+Renal function panel Final result , 6/16/2020
+CBC with Auto Differential Final result 6/16/2020
+Magnesium Final result 6/16/2020
+POCT Glucose by Meter Final result 6/15/2020
+Hemoglobin and Hematocrit, Blood Final result 6/15/2020
+POCT Glucose by Meter Final result 6/15/2020
+Hemoglobin and Hematocrit, Blood Final result 6/15/2020
+POCT Glucose by Meter Final result 6/15/2020
+Hemoglobin and Hematocrit, Blood Final result 6/15/2020
+POCT Glucose by Meter Final result 6/15/2020
+Hemoglobin and Hematocrit, Blood Final result 6/15/2020
+MRSA Screen by PCR Final result 6/14/2020
+Hemoglobin and Hematocrit, Blood Final result 6/14/2020
+POCT Glucose by Meter Final result 6/14/2020
+Extra Micro Urine Final result 6/14/2020
+Extra Urine, Chemistry Urine, Clean Catch Final result 6/14/2020
+
+ 
+
+2 @ Warning: Additional results from 6/14/2020 are available but are not displayed in
+
+' this report.
+
+f
+
+ 
+
+ 
+
+Laurrell. Joseoh ({MRN 665137) Printed bv Steven D Hvatt [64301 at 7/15/20 10:09 AM
+
+Paoe ? of 2
+ 
+
+8062124053 09:28:06 07-15-2020 79/103
+Laurrell, Joseph (MRN 665137)
+
+ 
+
+Tissue Exam Order. 523173968
+
+Status: Final result
+Visible to patient: No (Not Released)
+Dx: Basal cell carcinoma (BCC), unspecifi...
+
+ 
+
+Narrative Performed by: PPAP
+
+PATIENT: LAURRELL, JOSEPH
+CASE NUMBER: BSA-19-08646
+
+ 
+
+Specimen Source: A. SKIN, RESECTION
+
+ 
+
+F-CUINICAE HISTORY:
+
+ 
+
+PreOp Diagnosis: Basal cell carcinoma right shin
+PostOp Diagnosis Same
+
+FINAL DIAGNOSIS:
+
+Skin and subcutaneous tissue of right lower leg, excision:
+1. Ulcerated basal cell carcinoma, surgical margins free of
+involvement.
+
+2. Incidental seborrheic keratosis.
+
+Code 9 Class III IcD C44.712
+
+MICROSCOPIC DESCRIPTION:
+A complete microscopic examination is performed.
+
+GROSS DESCRIPTION:
+The specimen is received without fixation and labeled "Basal ceil
+
+carcinoma right lower leg" and consists of a 3.9 x 2.0 cm ellipse of
+
+tan-white skin excised to a depth of 0.2 cm. The skin surface is
+
+remarkable for a 1.0 x 0.6 cm, tan-pink, ulcerative lesion that comes
+‘within 0.4 cm of the nearest margin. The specimen is oriented with a
+
+short suture at superior, a long suture at lateral and is inked as
+follows: Superior/lateral-blue; lateral/inferior-yellow;
+
+inferior/medial-green; medial/superior-orange; deep-black. The specimen
+
+is serially sectioned and entirely submitted for frozen section
+
+diagnosis. The frozen section remnants are entirely submitted in Al and
+
+A2. 22 11/26/2019 10:30:45 AM
+
+INTRAOPERATIVE PROCEDURE:
+
+Skin of right lower leg, excision;
+
+Basal cell carcinoma, surgical margins free of involvement.
+Gross Time In: 0918 Path Time In: 0932 Time Out: 0938
+
+JMH/mg
+11/26/2019
+
+Signature
+
+Laurrell. Joseoh (MRN 665137) Printed bv Steven D Hvatt [64301 at 7/15/20 10:00 AM
+
+ 
+
+ 
+
+Pave 1 af 2
+ 
+
+8062124053 09:28:34
+Laurrell, Joseph (MRN 665137)
+
+‘November 27, 2019 9:26 AM
+
+Specimen Collected: 11/26/19 09:13
+Last Resulted: 11/27/19 09:26
+
+ 
+
+Final Diagnosis performed by James M Hurly, M.D.. Electronically signed
+
+Bl order Details yp View Encounter W Lab and Collection Details 3 Routing © Result History
+
+07-15-2020
+
+ 
+
+Order Providers
+
+ 
+
+Authorizing Provider Encounter Provider
+Cathryn Doughtie ‘ None
+
+ 
+
+_Lab. Component SmartPhrase Guide
+Tissue Exam (Order #523173968) on 11/26/19
+
+Specimens
+
+Collected Collected Time in
+ID Source Type _ Tests By At Frozen? _ Attributes Formalin Priority
+
+A Tissue Tissue «© TISSUEEXAM Cathryn 11/26/19 Yes
+Doughtie 0913
+Description: basal cell carcinoma right lower leg. short superior, long lateral
+
+Other Results from 11/26/2019
+POCT Glucose by Meter Final result
+
+Laurrell, Joseph (MRN 665137) Printed by Steven D Hyatt [64301 at 7/15/20 10:00 AM
+
+11/26/2019
+
+Page 2 of 2
+ARoLc LNA ke.
+
+ 
+
+8062124053
+
+09:28:55 07-15-2020
+
+81/103
+
+‘Page 1 of 19
+
+ 
+
+ 
+
+X-Ray CVL Chest 1 View (Post CVL Insert)
+
+‘Status: Final result
+
+ 
+
+ 
+
+PACS Images
+
+@ Show images for X-Ray CVL Chest 1 View (Post CVL Insert)
+
+ 
+
+ 
+
+ 
+
+Ea Study Result
+
+ 
+
+C PROCEDURE: XR CVL CHEST 1 VW (POST CVL INSERT)-NC
+
+Lanrrell. Insenh (MRN 645137) Printed hv Steven D Hvatt [44301 at 7/1590 10-01 AM
+
+ 
+
+COMPARISON: Baptist St. Anthony's , CT, CT CHEST WO CONTRAST, 06/10/2020, 8:35 AM. Baptist
+
+St.. Anthony's , CT, CT THERAPEUTIC RADIOLOGY SIMULATION, 06/10/2020, 10:12 AM. Physician's -
+
+Surgical Hospitals, CR, FL OR PAC INSERT FLUORO GUIDE, 07/06/2020, 2:12 PM.
+INDICATIONS: _ ck fine placement,
+TECHNIQUE: An AP portable view of the chest is provided.
+
+FINDINGS:
+LINES/CATHETERS: Left lJ power port with its tip overlying the region of the cavoatrial junction.
+
+LUNGS/PLEURA: No significant pulmonary parenchymal abnormalities. No effusion or pneumothorax.
+VASCULATURE: Normal. Unremarkable pulmonary vasculature.
+
+CARDIAC: Normal. No cardiac silhouette abnormality or cardiomegaly.
+
+MEDIASTINUM: Normal. No visible mass or adenopathy.
+
+BONES: Stable expansile lytic lesion involving the posterior right 4th rib with associated pathologic
+fracture. Additional lytic lesions seen within the thoracic spine on the prior CT are not visible
+radiographically. Mild degenerative changes involving the shoulders and thoracic spine. No acute
+abnormality.
+
+OTHER: Negative.
+
+CONCLUSION:
+
+1. Left [J power port with its tip overlying the region of the cavoatrial junction. No pleural effusion or
+pneumothorax.
+
+2. Clear lungs
+
+3. Stable lytic lesion with associated pathologic fracture involving the right posterior 4th rib.
+
+4. Additional findings, as above.
+
+Dictated by: Michael Daniel MD on 07/06/2020 at §:22 PM
+Electrically Signed By: Michael Daniel MD on 07/06/2020 at 5:25 PM
+
+ 
+
+ 
+
+Result History
+
+X-Ray CVL Chest 1 View (Post CVL Insert) (Order #759001032) on 7/6/2020 - Order Result History Report
+
+ 
+
+ 
+
+ 
+
+Page 1 nf 19
+ 
+
+8062124053
+
+Signed by
+
+Signed
+DANIEL, MICHAEL.EVAN
+Phone: 806-355-3352
+
+Kecelved by:
+
+09:29:27
+
+Date/Time
+7/06/2020
+
+07-15-2020
+
+Page 2 of 19
+
+17:25
+
+ 
+
+ 
+
+| _ Exam Information
+
+Status
+
+Final (99)
+Exam Ended: 7/06/2020
+15:31
+
+Exam Begun
+7/06/2020
+
+18:16
+
+ 
+
+ 
+
+$° Reason for Exam
+
+ck line placement
+Comments:
+
+Priority: Routine
+
+ 
+
+ 
+
+A External Results Report
+
+Open External Results Report
+
+& Encounter
+
+View Encounter
+
+ 
+
+ 
+
+ 
+
+& Order Report
+
+X-Ray CVL Chest 1 View (Post CVL Insert) (Order
+
+#759001032) on 7/6/20
+
+ 
+
+ 
+
+#759001032) on 7/6/20
+
+ 
+
+& Reprint Order Requisition
+
+X-Ray CVL Chest 1 View (Post CVL Insert) (Order
+
+ 
+
+ 
+
+Radiation Exposure Data
+
+X-Ray CVL Chest 1 View (Post CVL Insert)
+
+Accession #: AHS3 148842
+
+ 
+
+No radiation information documented for this order
+
+ 
+
+ 
+
+Laurrell. Josenh (MRN 665137) Printed bv Steven D Hvatt [64301 at 7/15/90 10:01 AM
+
+= Order Provider Info
+
+Ordering User
+Pager. --
+E-mail: --
+
+Melissa Elliott
+
+Office phone
+
+ 
+
+Authorizing Provider
+Pager: --
+E-mail: --
+
+Julie Hampton, NP-C
+
+806-212-6604
+
+ 
+
+Attending Provider When Ordered
+
+Pager: --
+
+Shane Holloway, MD
+
+806-212-6604
+
+ 
+
+Pane 3 nf 10
+ 
+
+8062124053
+
+ 
+
+09:29:57. 07-15-2020 83 /103
+Page 3 of 19
+Office phone
+E-mail: --
+Billing Provider Michael Daniel, MD 806-355-3352
+Pager: --
+E-mail: --
+
+ 
+
+ 
+
+Fluoroscopy Guided OR PAC Insert
+
+ 
+
+ 
+
+ 
+
+c
+Jat . ig
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eq PACS Images
+
+# Show images for Fluoroscopy Guided OR PAC Insert
+
+ 
+
+ 
+
+Laurell. Joseoh (MRN 665137) Printed bv Steven 1) Hvatt [64301 at 7/15/90 10-01 AM
+
+Study Result
+PROCEDURE: FLOR PAC INSERT FLUORO GUIDE
+COMPARISON: Physician's Surgical Hospitals, CR, XR CVL CHEST 1 VW (POST CVL INSERT)-NC,
+07/06/2020, 3:22 PM. Baptist St. Anthony's , CT, CT THERAPEUTIC RADIOLOGY SIMULATION,
+06/10/2020, 10:12 AM. Baptist St. Anthony’s , CT, CT BIOPSY BONE DEEP, 06/10/2020, 8:38 AM.
+Baptist St, Anthony's , CT, CT CHEST WO CONTRAST, 06/10/2020, 8:35AM.
+
+“INDICATIONS: PORT A CATH PLACEMENT,
+
+FINDINGS:
+3 Intraoperative fluoroscopic images of the chest are provided. Fluoroscopy time: 24.7 seconds.
+
+Intraoperative images demonstrate a left IJ power portin place. The tip of the catheter overlies the region
+of the cavoatrial junction. Visualized portions of the lungs are clear.
+
+CONCLUSION:
+Left J power port with its tip overlying the region of the cavoatrial junction.
+
+Dictated by: Michael Danie! MD on 07/06/2020 at 5:25 PM
+Electrically Signed By: Michael Daniel MD on 07/06/2020 at 5:26 PM
+
+ 
+
+ 
+
+Result History
+
+Fluoroscopy Guided OR PAC Insert (Order #758909658) on 7/6/2020 - Order Result History Report
+
+ 
+
+ 
+
+Signed by
+Signed Date/Time
+DANIEL, MICHAEL EVAN 7/06/2020 17:26
+
+|. Phone: 806-355-3352
+
+ 
+
+Pace 3 of 19
+ 
+
+8062124053
+
+;
+
+09:30:27
+
+07-15-2020
+
+84/103
+Page 4 of 19
+
+ 
+
+Exam Information
+
+Status
+
+Final (99]
+Exam Ended: 7/06/2020
+15:10
+
+Exam Begun
+7/06/2020 14:41
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+s° Reason for Exam
+
+PORT A CATH PLACEMENT
+Comments:.PORT A CATH PLACEMENT
+24.7 MINUTES OF FLUORO TIME
+
+3 IMAGES
+
+Priority: Routine
+
+ 
+
+ 
+
+A External Results Report
+
+Open External Results Report
+
+ 
+
+& Encounter
+
+View Encounter
+
+ 
+
+ 
+
+& Order Report
+
+Fluoroscopy Guided OR PAC Insert (Order
+#758909658) on 7/6/20
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+@ Reprint Order Requisition -
+
+Fluoroscopy Guided OR PAC Insert (Order
+#758909658) on 7/6/20
+
+ 
+
+ 
+
+Radiation Exposure Data
+
+Fluoroscopy Guided OR PAC Insert
+
+Order Radiation
+Type
+Fluoro Time
+Dose: 0.41167 minutes
+
+Accession #: AHS3148659
+
+ 
+
+ 
+
+Laurrell. Joseoh (MRN 665137) Printed bv Steven D Hvatt [44301 at 7/15/20 10:01 AM
+
+Pager: --
+
+= Order Provider Info
+
+Ordering User
+Pager: --
+E-mail: --
+Authorizing Provider
+Pager. --
+E-mail: --
+Attending Provider When Ordered
+
+Melissa Elliott
+
+Shane Holloway, MD
+
+Shane Holloway, MD
+
+Office phone
+
+806-212-6604
+
+806-212-6604
+
+ 
+
+Pace 4 nf 19
+ 
+
+8062124053
+
+ 
+
+09:30:59 07-15-2020
+
+ 
+
+85 /103
+
+Page 5 of 19
+Office phone
+E-mail: --
+Billing Provider Michael Daniel, MD 806-355-3352
+Pager. --
+E-mail: --
+
+ 
+
+ 
+
+—Status-Final-result
+
+ 
+
+CT Chest Without Contrast
+
+ 
+
+ 
+
+ 
+
+ 
+
+Laurrell, Joseph (MRN 665137) Printed by Steven D Hyatt [64301 at 7/15/20 10:01 AM
+
+7 -fi- PACS mages
+
+ 
+
+# Show images for CT Chest Without Contrast
+
+ 
+
+ 
+
+Study Result
+
+PROCEDURE: CT CHEST WO CONTRAST
+COMPARISON: None.
+
+INDICATIONS: Intrahepatic mass, malignancy Suspected,
+
+TECHNIQUE: Helical sections through the chest were performed from the lung apices through the
+diaphragms without IV contrast. Sagittal and coronal reconstructions are obtained from source images.
+
+FINDINGS:
+
+LUNGS: No infiltrate. There is a 2 mm pulmonary nodule in the right upper Icbe. Few bands of
+atelectasis or scarring.
+
+PLEURA: No pleural fluid or pneumothorax.
+
+CARDIAC: No cardiomegaly or pericardial fluid.
+
+MEDIASTINUM/HILA: No mass or adenopathy.
+
+AORTA: No aneurysm.
+
+CHEST WALL: No mass or axillary adenopathy.
+
+LIMITED ABDOMEN: Hepatic masses and portacaval adenopathy, known.
+
+BONES: There is a fractures through posterior lateral right rib 4 with possible underlying lytic
+lesion/metastasis. Small focal pleural fluid or tissue at this level. No pneumothorax. There is a lytic
+lesion and possible pathologic fracture along the inferior endplate of the visualize C5 vertebral body
+anteriorly. Minimal height loss‘along the superior endplate of T2 without fracture identified. The lytic
+lesion in the T9 vertebral body and possible pathologic fracture through the superior endplate and
+anterior cortex, and no significant deformity or height loss. Lytic metastasis in the T10 vertebral body with
+anterior cortical destruction along the right side and small soft tissue component seen anterior to the
+vertebral body.
+
+OTHER: Negative.
+
+CONCLUSION:
+
+1. No evidence of metastatic disease in the lungs, 2 mm pulmonary nodule In the right upper lobe can be
+followed.
+
+2. Pathologic fracture of right posterior lateral rib 4. Small focal pleural fluld or tissue at this level. No
+pneumothorax.
+
+3. Lytic metastatic lesions tn the C5, T9 and T10 with possible pathologic fractures and cortical
+destruction/small soft tissue components as described above.
+
+ 
+
+Page § of 19
+ 
+
+8062124053
+
+Dictated by: APRIL BAILEY, MD on 06/10/2020 at 10:20 AM
+Electrically Signed By: APRIL BAILEY, MD on 06/10/2020 at 10:32 AM
+
+09:31:32 07-15-2020 86 /103
+Page 6 of 19
+
+ 
+
+ 
+
+Result History
+
+CT Chest Without Contrast (Order #753744286) on 6/10/2020 - Order Result History Report
+
+ 
+
+ 
+
+ 
+
+Signed by
+
+ 
+
+ 
+
+Signed
+BAILEY, APRIL
+Phone: 806-355-3352
+
+Date/Time
+6/10/2020 10:32
+
+ 
+
+ 
+
+Exam Information
+
+Status
+
+Final (99)
+Exam Ended: 6/10/2020
+08:53
+
+Exam Begun
+6/1 0/2020 08:12
+
+ 
+
+ 
+
+ 
+
+© Decision Support
+
+Appropriateness Score
+8 - Indicated
+
+Ordering Provider
+Chandana Yalamanchili, MD
+
+ 
+
+ 
+
+Session ID
+125643319
+
+CDSM Identifier. National Decision Support Company CareSelect (G1004)
+
+Adherence: Yes (ME)
+
+Source
+Web Service
+
+ 
+
+ 
+
+Date Time Consulted
+06/10/20 07:38:22
+
+Exception
+
+ 
+
+ 
+
+° Reason for Exam
+
+Intrahepatic mass, malignancy suspected
+
+Comments:
+
+Priority: STAT
+
+ 
+
+ 
+
+ 
+
+&] External Results Report
+
+Open External Results Report
+
+Y Encounter
+
+ 
+
+View Encounter
+
+Laurrell. Joseph (MRN 665137) Printed bv Steven N Hvatt [44301 at 7/1490 10-1 AM —s Pao Anf10
+ 
+
+8062124053 09:32:03 07-15-2020 87 /103
+
+Page 7 of 19
+
+ 
+
+ 
+
+& Order Report . segs
+P & Reprint Order Requisition
+
+CT Chest Without Contrast (Order #753744286) on .
+
+6/10/20 CT Chest Without Contrast (Order #753744286)
+
+on 6/10/20
+
+ 
+
+ 
+
+ 
+
+Radiation Exposure Data
+
+ 
+
+CT-Chest Without Contrast
+
+Order Radiation
+
+Type
+
+Radiation
+Dose: 6 mGy
+Range: 0 - 250 mGy
+
+Accession #: AHS3047201
+
+ 
+
+ 
+
+= Order Provider Info
+
+Office phone
+
+Ordering User Kimberly Fletcher, RN
+Pager: -- ,
+
+E-mail: --
+
+Authorizing Provider Chandana Yalamanchili, MD
+Pager. --
+E-mail: --
+
+Attending Provider When Ordered = Chandana Yalamanchili, MD
+Pager. --
+E-mail: --
+
+Billing Provider April Bailey, MD 806-355-3352
+Pager. --
+E-mail: --
+
+ 
+
+ 
+
+ 
+
+CT Biopsy Bone Deep
+
+Status: Final result
+
+ 
+
+ 
+
+ 
+
+PACS Images
+
+@ Show images for CT Biopsy Bone Deep
+
+ 
+
+Study Result
+PROCEDURE: CT BIOPSY BONE DEEP
+
+ 
+
+Laurrell. Josenh (MRN 665137) Printed bv Steven ND Hvatt [44301 at 7/1590 10-01 AM —s Pane. Taf 10
+8062124053 09:32:34 07-15-2020
+
+SUPERVISING PHYSICIAN: M. Hall, M.D.
+PRIMARY OPERATOR: Derald Phillips PA-C
+
+COMPARISON: Baptist St. Anthony's , MR, MRI LUMBAR SPINE WO CONTRAST, 06/09/2020, 10:44
+AM. Baptist St. Anthony's , MR, MRI LIVER W WO CONTRAST, 08/08/2020, 6:31 PM.
+
+INDICATIONS: CT GUIDED LEFT ILIAC BONE BIOPSY;
+
+DESCRIPTION: The risks, benefits, and alternatives were discussed with the patient and informed
+consent :
+
+ 
+
+88 /103
+Page 8 of 19
+
+ 
+
+ 
+
+ 
+
+sterile
+
+ 
+
+manner. Preliminary CT images were performed for localization.
+| a LOCATION: . Left iliac bone lesion
+BIOPSY NEEDLE: 11 gauge osteo site needle and 18 gauge Bard biopsy needle
+
+MEDICATIONS: 10 ml. of 1% lidocaine was utilized for local anesthesia
+10 mg of Valium
+100 2g Fentanyl
+
+SEDATION: 40 minutes of face to face time with the patient providing moderate sedation. Sedation was
+monitored by an independent trained observer/nurse. Continuous hemodynamic monitoring was
+performed including monitoring of heart rate, blood pressure and pulse oximetry.
+
+ 
+
+PATHOLOGY /LAB: Specimen were sent to pathology and the results are pending. Eight core
+specimen and 2 cc aspirate obtained and submitted for analysis.
+
+COMPLICATIONS: No known immediate. The patient tolerated the procedure well.
+
+PATIENT DISPOSITION: The patient tolerated the procedure well and was observed for 30 minutes
+post procedure. The patient was then subsequently transferred back to their room in stable condition with
+both written and verbal instructions.
+
+CONCLUSION: Successful CT-guided left iliac bone lesion biopsy.
+
+Dictated by: Derald Phillips, JR, P.A.-C on 06/10/2020 at 10:20 AM
+Electrically Signed By: Michael Hall, M.D. on 06/10/2020 at 2:29 PM
+
+ 
+
+Result History
+
+CT Biopsy Bone Deep (Order #753564878) on 6/10/2020 - Order Result History Report -
+
+ 
+
+Signed by
+Signed Date/Time
+HALL, MICHAELJ ~ 6/10/2020 14:29
+
+Phone: 806-355-3352
+
+ 
+
+ 
+
+ 
+
+4
+i
+;
+
+3
+
+:
+Q
+'
+‘
+i
+;
+i
+‘
+
+T.aurrell. Tnsenh (MRN 645137) Printed hv Steven 1D Hvatt FAd301 at T/1S50 10-01 AM Pane 2 nf 10
+ 
+
+8062124053
+
+Necelved by:
+
+Exam Information
+
+Status
+
+Final [99}
+Exam Ended: 6/10/2020
+09:13
+
+09:33:04 07-15-2020
+
+89/103
+
+Page 9 of 19
+
+Exam Begun
+
+6/10/2020 08:12
+
+ 
+
+ 
+
+3° Reason for Exam
+
+Priority: Routine
+
+ 
+
+CT GUIDED LEFT ILIAC BONE BIOPSY
+Comments: 6/9/2020 2:37 PM CDT by Michael Hall
+
+ 
+
+Laurrell. Joseph (MRN 665137) Printed bv Steven D Hvatt [64301 at 7/15/20 10:01 AM
+
+Approved? Yes
+IR procedure: CT guided left iliac bone biopsy
+
+ 
+
+ 
+
+A External Results Report
+
+Open External Results Report
+
+& Encounter
+
+View Encounter
+
+ 
+
+ 
+
+A Order Report
+
+CT Biopsy Bone Deep (Order #753564878) on
+6/9/20
+
+ 
+
+ 
+
+ 
+
+& Reprint Order Requisition
+
+CT Biopsy Bone Deep (Order #753564878) on
+6/9/20
+
+ 
+
+ 
+
+ 
+
+Radiation Exposure Data
+
+CT Biopsy Bone Deep
+Order Radiation
+Type
+Radiation
+Dose: 60 mGy
+Range: 0 - 250 mGy
+
+Accession #: AHS3047259
+
+ 
+
+ 
+
+ 
+
+f Timeouts
+
+Brenda Williamson, RN at Wed Jun 10, 2020 0825
+
+Timeout Details
+Timeout type: Sign-in
+
+‘Timeout Questions
+Correct site? Yes
+Correct procedure? Yes
+Site marked? N/A
+
+ 
+
+Pase 9 of 19
+ 
+
+8062124053
+
+09:33:34 07-15-2020
+
+30/103
+
+Page 10 of 19
+
+Consents verified? Yes
+
+Allergies reviewed? Yes
+
+Is there a pulse oximeter on the patient? Yes
+
+Does the patient have a difficult airway for intubation? No
+Is there risk of high blocd loss? No
+
+is documentation verified? Yes
+
+Comments
+Risks of procedure have been discussed with pt by DJ Phillips, PA. Pt. consents to proceed.
+
+Verification History
+
+ 
+
+ee
+
+| Brenda Williamson, RN at Wed Jun 10, 2020 0840
+
+ 
+
+ 
+
+Brenda Williamson, RN at Wed Jun 10, 2020 0905
+
+Staff Performed
+Brenda Williamson, RN Wed Jun 10, 2020 0825
+
+ 
+
+Timeout Details
+Timeout type: Fire Safety
+
+ 
+
+ 
+
+Comments
+
+CT Only
+
+Verification History
+
+Staff Performed
+
+Brenda Williamson, RN Wed Jun 10, 2020 0840
+
+Verified: Wed Jun 10, 2020 0840
+
+Brenda Williamson, RN at Wed Jun 10, 2020 0847
+
+Timeout Details
+Timeout type: Pre-procedure
+
+Timeout Questions
+
+Correct patient? Yes
+
+Correct site? Yes
+
+Correct side? Yes
+
+Correct procedure? Yes
+
+Antibiotics ordered and given? N/A
+
+Is there risk of high blood lass? Yes
+
+Is the anesthesia safety checklist complete? Yes
+Have all team members been introduced? Yes
+Has the surgeon reviewed the critical steps? Yes
+Has the anesthesia reviewed the patient? Yes
+Has the nursing team reviewed the sterility? Yes
+Have all new equipment problems been addressed? Yes
+
+Comments
+
+02 source to pt.--bw Ambubag at bedside. Est. procedure time 35 min, EBL <5cc per DJ Phillips, PA
+
+Verification History
+
+Staff . Performed
+
+Brenda Williamson, RN Wed Jun 10, 2020 0847
+Verified: Wed Jun 10, 2020 0849
+
+ 
+
+Laurrell. Joseph (MRN 665137) Printed bv Steven D Hvatt [64301 at 7/15/20 10:01 AM = Pace 10 af 19
+ 
+
+8062124053
+
+Timeout Details
+Timeout type: Sign-out
+
+Timeout Questions
+
+Are counts correct? N/A
+
+Have specimens been labeled? Yes
+
+Have all new equipment problems been addressed? N/A
+Have all recovery issues been reviewed? N/A
+
+Comments
+
+09:34:08 07-15-2020 91/103
+Page 11 of 19
+
+ 
+
+ 
+
+Verification History .
+Staff Performed
+
+ 
+
+Brenda Williamson, RN Wed Jun 10, 2020 0905
+
+Verified: Wed Jun 10, 2020 0926
+
+ 
+
+ 
+
+= Order Provider Info
+
+Ordering User Sandra Waller.
+Pager: -- ,
+E-mail: --
+Authorizing Provider Chandana Yalamanchili, MD
+_ Pager. -- .
+E-mail: --
+Attending Provider When Ordered = Chandana Yalamanchili, MD
+Pager. --
+E-mail: --
+Billing Provider Michael Hall
+Pager. --
+E-mail: --
+
+Office phone
+
+806-355-3352
+
+ 
+
+ 
+
+Status: Final result
+
+ 
+
+MRI Lumbar Spine Without Contrast
+
+ 
+
+ 
+
+PACS Images
+
+¢ Show images for MRI Lumbar Spine Without Contrast
+
+ 
+
+ 
+
+Ea Study Result
+PROCEDURE: MRI LUMBAR SPINE WO CONTRAST
+
+TECHNIQUE: Multipfanar MR images of the lumbar spine were obtained without contrast.
+COMPARISON: | Baptist St. Anthony's , MR, MRI LIVER W WO CONTRAST, 06/08/2020, 6:31 PM.
+
+ 
+
+Laurrell. Joseph (MRN 665137) Printed hv Steven D Hvatt [644301 at 7/1590 10:01 AM ss Paoe 11 nf 10
+ 
+
+8062124053
+
+ 
+
+09:34:39 07-15-2020
+
+INDICATIONS: Back pain or radiculopathy, > 6 wks,
+
+FINDINGS:
+
+ALIGNMENT: Normal.
+
+VERTEBRAE: There are rounded regions of decreased T1 signal in the T11, T12, L2, L3, L4, and LS
+vertebral bodies. The largest lesions measure up to 3.4 cm maximum dimension. There is decreased T1
+signal involving most of the left sacral ala. The largest lesions have increased STIR signal.
+PARASPINAL AREA: Normal.
+
+OTHER: There are rounded regions of decreased T1 signal and each ilium. A lesion on the left is
+incompletely included, but measures at least 4 cm in diameter. This largest lesion invades the left iliacus
+
+92/103
+Page 12 of 19
+
+ 
+
+LUMBAR DISC LEVELS
+T12-L1: Normal.
+
+ 
+
+ 
+
+1-2: Normal.
+
+L2-3: Normal. —
+
+L3-4: There is mild ligamentum flavum hypertrophy.
+
+L4-5: There is a broad-based posterior disc bulge measuring about 3mm AP. There is moderate -
+ligamentum flavum hypertrophy and moderate left facet joint overgrowth. The AP dimension of the thecal
+sac is reduced to about 7 mm in the midline, and there is severe right lateral recess stenosis.
+
+L5-S1: Normal.
+
+CONCLUSION:
+
+1. The extensive metastatic disease to the lumbosacral spine and each ilium. The largest lesions are in
+the left sacral ala, the L5 vertebral body, and the left ilium. The left iliac lesion invades the adjacent
+iliacus muscle,
+
+2. AtL4-5,.there is moderate canal stenosis due to ligamentum flavum hypertrophy left facet joint
+overgrowth, and a posterior disc bulge.
+
+Dictated by: Branch Archer Ili, MD on 06/09/2020 at 11:47 AM
+Electrically Signed By: Branch Archer lil, MD on 06/09/2020 at 11:55 AM
+
+ 
+
+ 
+
+Result History
+
+MRI Lumbar Spine Without Contrast (Order #753276273) on 6/9/2020 - Order Result History Report
+
+ 
+
+ 
+
+A he
+
+Signed by
+Signed Date/Time
+ARCHER, BRANCH T 6/09/2020 11:55
+
+Phone: 806-355-3352
+
+ 
+
+ 
+
+Exam Information
+
+Status Exam Begun
+
+Final [99] . . 6/09/2020 10:57
+Exam Ended: 6/09/2020
+11:13
+
+ 
+
+ 
+
+Laurrell, Joseph (MRN 665137) Printed by Steven D Hvatt [64301 at 7/15/20 10:01 AM
+
+ 
+
+Pave 17 nf 19
+ 
+
+Keceived
+8062124053 09:35:09 07-15-2020 93 /103
+Page 13 of 19
+
+¢° Decision Support
+
+ 
+
+ 
+
+ 
+
+Appropriateness Score Ordering Provider
+
+8 - Indicated Chandana Yalamanchili, MD ~
+Session ID Source
+
+125215168 Web Service
+
+CDSM Identifier. National Decision Support Company CareSelect (G1004)
+i Adherence: Yes (ME)
+
+ 
+
+ 
+
+ 
+
+Date Time Consulted Exception
+& 06/07/20 15:54:57
+
+ 
+
+ 
+
+ 
+
+$° Reason for Exam Priority: Routine
+
+Back pain or radiculopathy, > 6 wks
+Comments:
+
+ 
+
+ 
+
+@ External Results Report Y Encounter
+
+Open External Results Report View Encounter
+
+ 
+
+ 
+
+ 
+
+& Order Report A Reprint Order Requisition
+
+MRI Lumbar Spine Without Contrast (Order —
+
+#753276273) on 6/7/20 MRI Lumbar Spine Without Contrast (Order
+
+#753276273) on 6/7/20
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Radiation Exposure Data
+
+MRI.Lumbar Spine Without Contrast Accession #: AHS3039960
+No radiation information documented for this order
+
+ 
+
+ 
+
+° Screening Form Questions
+
+ 
+
+ 
+
+Answer
+Have you ever had any cerebral/brain aneurysm clips? No
+Do you have a cardiac pacemaker? No
+Do you have an implanted cardiac defibrillator? - No
+
+ 
+
+Have you ever experienced any problems related to a previous MRI. = No
+examination or MR procedure?
+
+ 
+
+ 
+
+Laurrell. Josenh (MRN 665137) Printed hv Steven 1) Hvatt [64301 at 7/1490 19-01 AM Dane 12 nf 10
+ 
+
+8062124053 09:35:46 07-15-2020 94 /103
+
+ 
+  
+ 
+ 
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 14 of 19
+Answer
+g Have you ever had an injury to the eye or under your skin involving a No
+; metallic object or fragment (e.g., metallic slivers, shavings, foreign
+8 body, etc.)?
+Have you ever been injured by a metallic object or foreign body (e.g., No
+f BB, bullet, shrapnel, etc.)?
+y Have you ever had asthma, an allergic reaction, respiratory disease, or No
+§ a reaction to a contrast medium used for an MRI or CT exam?
+% Do you have any body piercings or tattoos? No
+i—De-vet ave-any-centures-orotherdentatimptants?: Yes
+Do you have any hearing aids, or ear implants (cochlear, otologic, No
+4% other)?
+{ Are you claustrophobic or uncomfortable in enclosed spaces?..__._ No
+# Have you ever had an implanted ECG monitor or a loop recorder? No
+s Do you have or have you ever had a shunt (spinal or intraventricular)? No
+4 Have you ever had an IVC umbrella or filter? No
+f Have you ever had a neurostimulator device? No
+¥ Do you have an insulin pump? No
+# Do you have any cardiac or vascular stents? No
+§ Do you have an artifical heart valve? : No
+¥ Do you have a history of kidney disease or are you currently on Yes
+f dialysis?
+@ Do you have a spinal cord or bone growth/fusion stimulator? No
+Do you have an implanted drug infusion device? No
+@ Do you have any type of artificial or prosthetic (limb, eye, penile, Yes
+; other)?
+Comment: Right corneal transplant
+§ Are you currently wearing a medication patch (nicotine, nitroglycerine, No
+f other)?
+f Do you have a tissue expander (breast or other) implanted? No
+| Do you have an IUD, diaphragm or pessary? No
+Have you ever done any welding? No
+I Are you wearing Circle, cosmetic or color contacts? No
+@ Do you have an electronic implant or device? No
+Do you have a magnetically-activated implant or device? No
+4 Do you have internal electrodes or wires? No
+Do you have a Swan-Ganz or thermodilution catheter?
+§ Do you have a joint replacement (hip, knee, other)? No
+Are you wearing magnetic makeup or eyelashes? No
+Have you received Feraheme IV therapy within the [ast three months? No
+Form completed by: , Nurse with Patient
+= Order Provider Info
+Office phone
+Ordering User Sharlet Slough, DO 806-212-2210
+
+ 
+
+Laurrell, Joseph (MRN 665137) Printed by Steven D Hyatt [64301 at 7/15/20 10:01 AM Page 14 of 19
+ 
+
+8062124053
+
+ 
+  
+ 
+ 
+ 
+ 
+   
+
+aXe ele eh eB
+
+09:36:44 07-15-2020
+
+95 /103
+
+Page 15 of 19
+
+Office phone
+Pager: --
+E-mail: --
+
+ 
+
+Authorizing Provider Chandana Yalamanchili; MD --
+Pager. --
+E-mail: --
+
+ 
+
+Attending Provider When Ordered = Chandana Yalamanchili, MD --
+Pager. --
+E-mail: --
+
+ 
+
+ 
+
+Ming Provider Branch Archer, MD 806-355-3352
+Pager. --
+E-mail: --
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MRI Liver With and Without Contrast
+
+Status: Final result
+
+ 
+
+ 
+
+PACS Images
+
+ 
+
+@ Show images for MRI Liver With and Without Contrast
+
+ 
+
+Study Result
+PROCEDURE: MRI LIVER WWO CONTRAST
+
+COMPARISON: Baptist St. Anthony's , MR, MRI LUMBAR SPINE WO CONTRAST, 06/09/2020, 10:44
+AM. HPRA CT 6/2/20
+
+INDICATIONS: Neoplasm: liver/biliary, suspected,
+
+TECHNIQUE: A comprehensive examination was performed utilizing a variety of imaging planes and
+imaging parameters to optimize visualization of suspected pathology. Images were obtained both before
+and after intravenous gadolinium infusion. 20 mL dotarem.
+
+FINDINGS:
+
+LIVER: There are multiple, conglomerate bilobar hepatic masses present. The largest mass
+measures 7.9 cm transverse x 11.5 cm AP x 11.6 cm craniocaudal and is located in the right lobe
+involving segments 6, 7 but also segments 5 and 8. This dominant mass has significant intra voxel fat
+throughout with an area of more significant fatty accumulation along the medial aspect. This dominant
+lesion, and the smaller lesions, are slightly T2 hyperintense with comparison to liver. On T1 weighted
+images, the dominant lesion is relatively hypointense but some of the smaller lesions have inherent T1
+shortening. Several lesions are relatively isointense to liver. There is volume redistribution in the liver but
+no background steatosis and no overt surface nodularity Identified. The dominant mass does have
+arterial phase enhancement but remains hypointense to liver on this phase, may be related to the
+presence of intra voxel fat. This dominant lesion is favored to be the same
+
+process as the smaller arterially enhancing lesions, but this larger lesion possibly has mixed components
+of cholangiccarcinoma present with hepatocellular carcinoma. Innumerable arterially enhancing lesions
+are seen along the periphery of the dominant mass, the largest is in segment 5 and measures 5.2 cm.
+The smaller lesions have arterial enhancement and washout and are consistent with hepatocellular
+carcinoma. The largest lesion in the left lobe is in segment 3 measuring 2 cm. Lesions in segment 4B
+
+measure 1.7 cm and 4A measure 1.6 cm. Smaller lesions are noted near the confluence of the hepatic
+
+ 
+
+T.aurrell. Jasenh (MRN 665 137) Printed hv Steven T) Hvatt [6431 at 7/15/70 10-01 AM = Pace 16 af 19
+ 
+
+8062124053
+
+09:37:22 07-15-2020
+Page 16 of 19
+
+veins with the IVC in segment 7 measuring 2.2 cm. There is a large portacaval lymph node measuring
+2.6 cm short axis that has signal intensity similar to the hepatic masses. Hepatic and portal veins patent,
+hepatic veins are attenuated.
+
+BILIARY: Gallbladder nondilated. No intra or extrahepatic biliary dilation.
+PANCREAS: Unremarkable.
+
+SPLEEN: Unremarkable, nonenlarged.
+
+KIDNEYS: Unremarkable.
+
+ADRENALS: Unremarkable.
+
+AORTA/VASCULAR: Unremarkable.
+RETROPERITONEUM: Unremarkable.
+BOWEWMESENTERY: Unremarkable.
+L_ASDOMINAL-VWALL:___Unramarkable-
+
+96/103
+
+ 
+
+BONES: Osseous lesions, metastases evaluated separately..
+OTHER:
+
+ 
+
+“CONCLUSION: ©
+1. Bilobar hepatic lesions concerning for multifocal hepatocellular carcinoma. Portacaval metastatic nodal
+
+i disease. Osseous lesions consistent with metastases.
+
+Dictated by: APRIL BAILEY, MD on 06/09/2020 at 4:32 PM
+Electrically Signed By: APRIL BAILEY, MD on 06/09/2020 at 5:03 PM
+
+ 
+
+ 
+
+ 
+
+Result History
+
+MARI Liver With and Without Contrast (Order #753276272) on 6/9/2020 - Order Result History Report
+
+ 
+
+ 
+
+Signed by
+
+Signed Date/Time
+BAILEY, APRIL 6/09/2020 17:03
+Phone: 806-355-3352
+
+ 
+
+ 
+
+Exam Information
+
+Status Exam Begun
+
+Final (99) 6/08/2020 18:27
+Exam Ended: 6/08/2020
+19:16
+
+ 
+
+#° Decision Support
+
+ 
+
+ 
+
+Appropriateness Score Ordering Provider
+Acceptable Chandana Yalamanchili, MD
+Session ID Source
+
+125215169 Web Service
+
+ 
+
+Laurrell, Joseph (MRN 665137) Printed bv Steven D Hvatt [64301 at 7/15/20 10:01 AM Page 16 of 19
+ 
+
+8062124053
+
+Session ID Source
+CDSM Identifier. National Decision Support Company CareSelect (G1004)
+
+Adherence: No Criteria Available (MG)
+
+09:37:52 07-15-2020 97 103
+Page 17 of 19
+
+ 
+
+ 
+
+Date Time Consulted Exception
+
+06/07/20 15:54:57
+
+ 
+
+ 
+
+ 
+
+$° Reason for Exam
+
+Priority: Routine
+
+ 
+
+  
+ 
+
+Neoplasm: liver/biliary, suspected
+Comments:
+
+ 
+
+ 
+
+A External Results Report
+
+Open External Results Report
+
+& Encounter
+
+View Encounter
+
+ 
+
+ 
+
+A Order Report
+
+MRI Liver With and Without Contrast (Order
+#753276272) on 6/7/20
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Reprint Order Requisition
+
+MRI Liver With and Without Contrast (Order
+#753276272) on 6/7/20
+
+ 
+
+ 
+
+Radiation Exposure Data
+
+MRI Liver With and Without Contrast
+
+Accession #: AHS3039942
+
+ 
+
+No radiation information documented for this order
+
+ 
+
+ 
+
+° Screening Form Questions
+
+ 
+
+ 
+
+Answer
+Have you ever had any cerebral/brain aneurysm clips? No
+Do you have a cardiac pacemaker? No
+Do you have an implanted cardiac defibrillator? No
+
+ 
+
+examination or MR procedure?
+
+Have you ever experienced any problems related to a previous MRI No
+
+ 
+
+body, etc.)?
+
+Have you ever had an injury to the eye or under your skin involving a No
+metallic object or fragment (e.g., metallic slivers, shavings, foreign
+
+ 
+
+BB, bullet, shrapnel, etc.)?
+
+Have you ever been injured by a metallic object or foreign body (e.g., No
+
+ 
+
+Have you ever had asthma, an allergic reaction, respiratory disease, or No
+a reaction to a contrast medium used for an MRI or CT exam?
+
+ 
+
+Do you have any body piercings or tattoos?
+
+No
+
+ 
+
+Do you have any dentures or other dental implants?
+
+ 
+
+Yes
+
+ 
+
+ Laurrell, Joseph (MRN 665137) Printed bv Steven D Hvatt [64301 at 7/15/20 10:01 AM Pave 17 nf 19
+ 
+
+8062124053
+
+09:38:33 07-15-2020 98/103
+Page 18 of 19
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Answer
+Do you have any hearing aids, or ear implants (cochlear, otologic, No
+other)?
+Are you claustrophobic or uncomfortable in enclosed spaces? No
+Have you ever had an implanted ECG monitor or a loop recorder? No
+Do you have or have you ever had a shunt (spinal or intraventricular)? No
+Have you ever had an IVC umbrella or filter? No
+Have you ever had a neurostimulator device? No
+Do you have an insulin pump? No
+Do you have any cardiac or vascular stents? No
+Do you have an artifical heart valve? No
+4Do-you_have.a_history.of kidney.disease.orare-you-currently.on Yes.
+4--dialysis?: uo
+Do you have a spinal cord or bone growth/fusion stimulator? No
+Do you have an implanted drug infusion device? No
+Do you have any type of artificial or prosthetic (limb, eye, penile, Yes
+other)?
+Comment: Right corneal transplant
+Are you currently wearing a medication patch (nicotine, nitroglycerine, No
+other)?
+Do you have a tissue expander (breast or other) implanted? No
+Do you have an IUD, diaphragm or pessary? No
+Have you ever done any welding? No
+Are you wearing Circle, cosmetic or color contacts? No
+Do you have an electronic implant or device? No
+Do you have a magnetically-activated implant or device? No
+Do you have internal electrodes or wires? No
+Do you have a Swan-Ganz or thermodilution catheter?
+Do you have a joint replacement (hip, knee, other)? No
+Are you wearing magnetic makeup or eyelashes? No
+Have you received Feraheme IV therapy within the last three months? No
+Form completed by: Nurse with Patient
+= Order Provider info
+Office phone
+| Ordering User Sharlet Slough, DO 806-212-2210
+Pager. --
+E-mail: --
+Authorizing Provider Chandana Yalamanchili, MD --
+Pager. --
+E-mail: --
+Attending Provider When Ordered = Chandana Yalamanchili, MD --
+Pager. --
+E-mail: --
+Billing Provider — April Bailey, MD 806-355-3352
+
+ 
+
+Laurrell. Jasenh (ARN 664137) Printed hv Steven ND Hvatt [44301 at 7/14/90 10:01 AM = Pave 18 nf 19
+ 
+
+8062124053 09:39:27 07-15-2020 99/103
+Page 19 of 19
+
+Office phone
+Pager: --
+E-mail: --
+
+ 
+
+ 
+
+ 
+
+Laurrell, Joseph (MRN 665137) Printed by Steven D Hvatt [64301 at 7/15/20 10:01 AM = Page 19 nf 19
+ 
+
+8062124053
+CneContent: Generated By shyatt
+
+BSA Health Systems Vascular Lab
+1600 Wallace Blvd.
+Amarillo, TX 79106
+Tel: (806) 212-5967
+
+09:39:35 = 07-15-2020
+
+ 
+
+ 
+
+Final Venous T
+
+ 
+
+Refernng Physician
+
+‘Wndieations = Pain inilimb
+
+Risk Factors
+
+Notes:
+
+Date of Birth Previous Exain
+
+ 
+
+ 
+
+ 
+
+ 
+
+Right Loft
+
+Deep venous thrombosis No No
+
+Superficial venous thrombosis No No
+
+Ovep venous insufficioncy Not examined Not examined
+
+Superticial venous insufficiency Not examined Not examined
+
+q 5
+interpretation
+
+Right leg : No evidence of deep venous thrombosis detected in the veins visualized. No evidence of superficial
+thrombosis detected.
+Left teg : No evidence of deep vencus thrombosis detected in the veins visualized. No evidence of superiicial
+thrombosis detected.
+
+100 /103
+
+  
+
+ 
+
+ 
+
+ 
+
+Don Lakey, BS RVT ROCS
+Technologist : 06/08/2020 10:03 AM
+
+Patient LAURRELL, JOSEPH MRN:665137 Page 1 of 1
+
+ 
+
+Shane Holloway MD
+Interpreting Physician : 06/08/2020 05:46 PM
+8062124053 09:39:54 07-15-2020
+
+Laurrell, Joseph (MRN 665137)
+
+ 
+
+101 /103
+
+ 
+
+Transthoracic Echo (TTE) Complete With Doppler and Color
+Joseph Laurrell ( i Order# 753276279
+
+Reading physician: Pedro Hernandez-Lattuf Ordering physician: Sharlet Slough, DO Study date: 6/8/20
+
+ 
+
+ 
+
+A Interpretation Summary
+
+ 
+
+ 
+
+BSA Health Systems
+1600 Wallace Bivd
+Amarillo;-FX-79106
+
+ 
+
+ 
+
+ 
+
+Voice: 806-212-5129
+
+ 
+
+Fax: 806-212-4390
+Transthoracic Echo Report
+LAURRELL, JOSEPH © - Order Date: Ordering Phys.:SLOUGH, SHARLET
+q Age: 72 Gender: M Exam Date: 06/08/2020 09:54 Referring Phys.:
+MRN: 665137 Room Number: Reading Phys.:First Available
+Cardiologist
+Account # 1000190348062 Type: Inpatient Technolegist: Roybal, Kenneith, RCS
+Accession #:AHS3037481 Ht (in): Wet (Ib): BSA: Nurse: ‘
+Procedure CPT:
+Indications: Hypertension
+ICD Codes:
+BP: I HR: Rhythm:
+Contrast: Dose: Technical Quality:Technically difficult study
+FINDINGS
+
+Left Ventricle Normal left ventricular size, systolic function and wall thickness, with no regional wall
+motion abnormalities. ,
+Visually estimated Ejection Fraction is 60-65 %. Impaired Relaxation.
+
+Left Atrium The left atrial chamber size is normal.
+
+Right Ventricle The right ventricular cavity size is normal.
+
+Right Atrium = The right atrial chamber size is normal.
+
+1A Septum The interatrial septum is normal.
+
+Aortic Valve — The Aortic valve is trileaflet.
+
+Mitral Valve — Structurally normal mitral valve.
+
+Tricuspid Valve Structurally normal tricuspid vaive.
+
+Pulmonary Valve Structurally normal pulmonic valve.
+
+Pericardium There is no pericardial effusion.
+
+Pleural Effusion There is no significant pleural effusion.
+
+Aorta Normal sinus of valsalva and ascending aorta dimension.
+Ive The inferior vena cava appears normal in size.
+CONCLUSIONS
+
+Normal left ventricular size, systolic function and wall thickness, with visually estimated Ejection Fraction
+60-65 %.
+
+Pseudonormal (grade Ii/Ill) left ventricular diastolic function.
+
+Sclerotic mitral valve.
+
+Mildly calcific aortic valve.
+
+Trivial mitral valve regurgitation.
+
+Trivial tricuspid valve regurgitation.
+
+MEASUREMENTS (Male/Female) Normal Values a -
+
+ 
+
+Laurrell. Jasenh (MRN 665137) Printed hv Steven D Hvatt [64301 at 7/1590 10-11 AM Pana 1 nf 2
+ 
+
+8062124053 09:40:25 07-15-2020 102 /103
+Laurrell, Joseph (MRN 665137)
+
+ 
+
+ 
+   
+  
+   
+ 
+    
+  
+
+2D ECHO
+LV Diastolic Diameter PLA 3.8cm 4.2-5.9/3 LV Relative Wall Thicknes 0.5
+LV Systolic Diameter PLAX 2.4 cm LV Ejection Fraction MOD 78.3% >=55 %
+
+IVS Diastolic Thickness 1.0cm 0.6-1.0/0 LV Ejection Fraction MOD 80.5 %
+LVPW Diastolic Thickness 1.0cm 0.6-1.0/0 LV Ejection Fraction MOD 76.5%
+
+DOPPLER
+
+AV Peak Velocity 189.3 cm/s MV Mean Gradient 4.0 mmHg
+AV Peak Gradient 15.9 mmHg MV Area PHT 2.6 cm2
+AV Mean Gradient 9.2 mmHg Mitral E Point Velocity 103.0 cm/s
+
+AV Velocity Time Integral 30.0 cm Mitral A Point Velocity 140.0 cm/s
+*, H H OZ.
+
+ 
+
+ 
+
+  
+   
+
+LVOT Peak Gradient 12.0 mmHg LV E' Septal Velocity 6.9 cm/s
+LVOT Velocity Time Integr 29.4 cm Mitral E to LV E' Septal 14.9
+
+MV Peak Velocity 117.5 cm/s TR Peak Gradient 11.4 mmHg
+MV Peak.Gradient 5.5 mmHg . .
+
+Pedro Hernandez-Lattuf MD
+(Electronically Signed) _ gah:
+Final Date:08 June 2020 11:56 soo
+
+ 
+
+ 
+
+$° Reason for Exam Priority: Routine
+
+Hypertension
+Comments:
+
+ 
+
+ 
+
+PACS Images
+
+@ Show images for Transthoracic Echo (TTE) Complete
+
+ 
+
+ 
+
+§R Signed
+Electronically signed by Pedro Hernandez-Lattuf on 6/8/20 at 1156 CDT
+
+ 
+
+ 
+
+A Result History
+
+View Result History
+
+ 
+
+ 
+
+ 
+
+Exam Information
+
+. Exam Exam
+Status Begun Ended
+Final (99) 6/08/2020 11:07 6/08/2020 11:07
+
+ 
+
+ 
+
+ 
+
+Laurrell. Joseph (MRN 665137) Printed bv Steven D Hvatt [644301 at 7/15/20 10:01 AM Pace 2 nf %
+ 
+
+8062124053
+Laurrell, Joseph (MRN 665137)
+
+@ Order Report
+
+Transthoracic Echo (TTE) Complete (Order
+#753276279) on 6/7/20
+
+ 
+
+09:40:55 07-15-2020 103 /103
+
+& Reprint Order Requisition
+
+Transthoracic Echo (TTE} Complete (Order
+#753276279) on 6/7/20
+
+ 
+
+ 
+
+& Printable Result Report
+
+Result Report
+
+ 
+
+ 
+
+& Encounter
+
+View Encounter
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 ~B-Order-Level-Documents:
+
+? Cardiology Reports - Scan on 6/8/2020 11:57 AM
+
+ 
+
+ 
+
+Laurrell, Joseph (MRN 665137) Printed bv Steven D Hvatt 164301 at 7/15/20 10:01 AM
+
+Paoe Inf 2
+
