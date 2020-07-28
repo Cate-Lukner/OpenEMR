@@ -17,6 +17,23 @@ brew install imagemagick # Fedora: dnf install imagemagick
 pip install pandas # Fedora: sudo python -m pip install pandas
 ```
 
+## Key Files and Directories
+
+*Important*: Create the file names exactly as `current_patient_names.csv` formated as follows:  
+```
+Last,First,Birth
+Smith,John,07/04/1776
+Washington,George,02/22/1732
+```
+*Notice the commands, last-first-birth format, no spaces, and no extra line at the end.*  
+
+Place all PDFs to be converted and renamed in `PDFs`. If the directory does not exist, create it using the following command (or your GUI):
+```bash
+mkdir PDFs
+```
+
+All renamed PDFs will be placed in `finished_files/PDFs`. All renamed Text documents will be placed in `finished_files/TXTs`. 
+  
 ## Key Commands 
 
 Ensure the files have the necessary permissions by running:
@@ -34,7 +51,5 @@ If all the PDFs and txt documents have already been converted, you can run:
 ./mac_rename_files.sh # Linux: ./rename_files.sh
 ```
 You can "pause" the renaming process with `CTRL+C` and resume using the command above. 
-  
-All renamed PDFs will be placed in `finished_files/PDFs`. All renamed Text documents will be placed in `finished_files/TXTs`. 
   
   
