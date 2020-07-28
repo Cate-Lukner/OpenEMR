@@ -10,7 +10,7 @@ ImageMagick 6.9.11-22
 Pandas 1.0.5
 
 Ensure dependencies are installed: 
-```
+```bash
 brew install python # Fedora: dnf install python
 brew install tesseract # Fedora: dnf install tesseract
 brew install imagemagick # Fedora: dnf install imagemagick
@@ -33,7 +33,7 @@ If all the PDFs and txt documents have already been converted, you can run:
 ```bash
 ./mac_rename_files.sh # Linux: ./rename_files.sh
 ```
-You can "pause" the renaming process with `CTRL+C` and resume using the following command above. 
+You can "pause" the renaming process with `CTRL+C` and resume using the command above. 
   
 All renamed PDFs will be placed in `finished_files/PDFs`. All renamed Text documents will be placed in `finished_files/TXTs`. 
   
