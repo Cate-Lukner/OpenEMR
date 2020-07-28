@@ -19,7 +19,7 @@ pip install pandas # Fedora: sudo python -m pip install pandas
 
 ## Key Files and Directories
 
-*Important*: Create the file names exactly as `current_patient_names.csv` formated as follows:  
+*Important*: Create the file named exactly as `current_patient_names.csv` formated as follows:  
 ```
 Last,First,Birth
 Smith,John,07/04/1776
