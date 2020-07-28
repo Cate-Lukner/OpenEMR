@@ -4,7 +4,7 @@ import glob
 import re
 import string
 
-pth = "/Users/lukner/PycharmProjects/PDFScan/venv/bin/OpenEMR/rename_pdfs/PDFs"
+pth = "./PDFs/"
 dir_show = os.listdir(pth)
 allow = string.ascii_letters + string.digits + "-" + "_"
 

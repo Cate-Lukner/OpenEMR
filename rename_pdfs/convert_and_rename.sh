@@ -6,8 +6,11 @@ mkdir -p tiff-files/
 mkdir -p finished_files/PDFs
 mkdir -p finished_files/TXTs
 
+# Remove troublesome characters
+python ./python_scripts/remove-non-alphnum.py
+
 # Get all the PDF files
-FILES=$(find . -type f -name "*.pdf")
+FILES=$(find ./PDFs/ -type f -name "*.pdf")
 
 # Loop through all the PDF files
 for file in $FILES
@@ -16,7 +19,8 @@ do
 	filename="$(basename "$file" .pdf)"
 
 	# Convert to an image
-	convert -density 300 "$file" -depth 8 -strip -background white -alpha off ./tiff-files/$filename.tiff
+	# Only for linux, convert only the first three pages. 
+	convert -density 300 "$file"[0-2] -depth 8 -strip -background white -alpha off ./tiff-files/$filename.tiff
 	# Use tesseract to conver to a .txt document
 	tesseract ./tiff-files/$filename.tiff ./txt-files/$filename
 done

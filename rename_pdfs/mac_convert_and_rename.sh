@@ -11,7 +11,7 @@ mkdir -p finished_files/TXTs
 python ./python_scripts/remove-non-alphnum.py
 
 # Get all the PDF files
-FILES=$(find . -type f -name "*.pdf")
+FILES=$(find ./PDFs/ -type f -name "*.pdf")
 
 # Loop through all the PDF files
 for file in $FILES
