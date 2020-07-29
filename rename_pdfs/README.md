@@ -48,7 +48,7 @@ To convert all the PDFs into txt documents and rename them, run:
 
 If all the PDFs and txt documents have already been converted, you can run:
 ```bash
-./mac_rename_files.sh # Linux: ./rename_files.sh
+./mac_rename.sh # Linux: ./rename.sh
 ```
 You can "pause" the renaming process with `CTRL+C` and resume using the command above. 
   
