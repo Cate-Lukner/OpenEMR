@@ -9,20 +9,31 @@ mkdir -p finished_files/TXTs
 # Remove troublesome characters
 python ./python_scripts/remove-non-alphnum.py
 
-# Get all the PDF files
-FILES=$(find ./PDFs/ -type f -name "*.pdf")
+# Get all the PDF files into an array
+FILES=( $(find ./PDFs/ -type f -name "*.pdf") )
+
+# Set the current file as file number one
+current_file=1
 
 # Loop through all the PDF files
-for file in $FILES
+for file in "${FILES[@]}"
 do
+	# Give the current file and how many files are left.
+	printf "\nCurrently on File: $file\n"
+	percent=$((100*$current_file/${#FILES[@]}))
+	printf "On file $current_file out of ${#FILES[@]} files. $percent%% of the way there.\n"
+
 	# Get the basename of the file
 	filename="$(basename "$file" .pdf)"
 
 	# Convert to an image
 	# Only for linux, convert only the first three pages. 
-	convert -density 300 "$file"[0-2] -depth 8 -strip -background white -alpha off ./tiff-files/$filename.tiff
+	convert -density 300 "$file"[0-1] -depth 8 -strip -background white -alpha off ./tiff-files/$filename.tiff
 	# Use tesseract to conver to a .txt document
 	tesseract ./tiff-files/$filename.tiff ./txt-files/$filename
+
+	# Increment the current file count
+	current_file=$((current_file+1))
 done
 
 # Clean up the uneeded .tiff files

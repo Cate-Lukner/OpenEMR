@@ -18,5 +18,5 @@ for list_file in dir_show:
         #filteredFileNamePrefix = filter(lambda i: i not in remove_special_chars, filteredFileNamePrefix)
         path = os.path.join(pth, list_file)
         newname=os.path.join(pth, filteredFileNamePrefix+".pdf")
-        print(newname)
+        # print(newname)
         os.rename(path,newname)

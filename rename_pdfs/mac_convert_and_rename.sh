@@ -11,11 +11,19 @@ mkdir -p finished_files/TXTs
 python ./python_scripts/remove-non-alphnum.py
 
 # Get all the PDF files
-FILES=$(find ./PDFs/ -type f -name "*.pdf")
+FILES=( $(find ./PDFs/ -type f -name "*.pdf") )
+
+# Set the current file as file number one
+current_file=1
 
 # Loop through all the PDF files
-for file in $FILES
+for file in "${FILES[@]}"
 do
+        # Give the current file and how many files are left.
+        printf "\nCurrently on File: $file\n"
+        percent=$((100*$current_file/${#FILES[@]}))
+        printf "On file $current_file out of ${#FILES[@]} files. $percent%% of the way there.\n"
+
 	# Get the basename of the file
 	filename="$(basename "$file" .pdf)"
 
@@ -23,6 +31,9 @@ do
 	magick convert -density 300 "$file" -depth 8 -strip -background white -alpha off ./tiff-files/$filename.tiff
 	# Use tesseract to conver to a .txt document
 	tesseract ./tiff-files/$filename.tiff ./txt-files/$filename
+
+	# Increment the current file count
+	current_files=$((current_file+1))
 done
 
 # Clean up the uneeded .tiff files
