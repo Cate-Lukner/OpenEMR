@@ -56,7 +56,7 @@ def confirm_patient(name_dict):
         confirm = input("Enter (y/n) to confirm the patient: ")
         if confirm[0] == 'y':
             return name_dict
-        elif confirm[1] == 'n':
+        elif confirm[0] == 'n':
             return give_first_and_last()
         else:
             print("That was not a valid input of (y/n), so we will take that as a no.")

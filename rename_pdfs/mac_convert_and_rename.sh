@@ -33,7 +33,7 @@ do
 	tesseract ./tiff-files/$filename.tiff ./txt-files/$filename
 
 	# Increment the current file count
-	current_files=$((current_file+1))
+	current_file=$((current_file+1))
 done
 
 # Clean up the uneeded .tiff files
